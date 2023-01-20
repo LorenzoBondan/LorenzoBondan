@@ -8,7 +8,7 @@
     >
 </p>
 
-[![linkedin](https://img.shields.io/static/v1?style=flat-square&logo=linkedin&color=blue&message=Linkedin&label=%20)](https://www.linkedin.com/in/lorenzo-bondan/)
+[![linkedin](https://img.shields.io/static/v1?style=flat-square&logo=linkedin&color=blue&message=Linkedin&label=%20)](https://www.linkedin.com/in/lorenzo-bondan-108b42236/)
 [![github](https://img.shields.io/static/v1?style=flat-square&logo=github&color=black&message=GitHub&label=%20)](https://github.com/LorenzoBondan)
 
 [![Lorenzo Bondan GitHub stats](https://github-readme-stats.vercel.app/api?username=LorenzoBondan&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
