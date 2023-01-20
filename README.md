@@ -1,6 +1,6 @@
 ### Lorenzo Bondan
 
-<p align="right">
+<p align="left">
     <img 
          src="https://komarev.com/ghpvc/?username=LorenzoBondan&label=Profile%20views&color=0e75b6&style=flat-square&color=yellow" 
          title="Profile views" 
@@ -14,6 +14,12 @@
 [![Lorenzo Bondan GitHub stats](https://github-readme-stats.vercel.app/api?username=LorenzoBondan&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LorenzoBondan&layout=compact&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+<div style="display: inline_block"><br>
+    <img align="center" alt="Rafa-CSharp" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
+    <img align="center" alt="Rafa-CSharp" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+</div>
+
+##
 
 <details title="Courses">
     <summary align="left"><strong><i>Courses</i></strong> :floppy_disk:</summary>
