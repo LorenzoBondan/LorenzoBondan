@@ -60,6 +60,11 @@
                 <a href="#"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" title="React"></a>
             </td>
         </tr>
+        <!-- Java -->
+        <tr>
+            <td><a title="Java COMPLETO Programação Orientada a Objetos">Java COMPLETO Programação Orientada a Objetos</a></td>
+            <td align="left"><a href="#"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" title="Java"></a></td>
+        </tr>
         <!-- C# -->
         <tr>
             <td><a title="C# COMPLETO Programação Orientada a Objetos">C# COMPLETO Programação Orientada a Objetos</a></td>
