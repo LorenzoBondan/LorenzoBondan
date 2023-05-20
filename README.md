@@ -1,13 +1,11 @@
-### Lorenzo Bondan
-
-# My portfolio
-https://lorenzobondanportfolio.vercel.app/
-
+## My portfolio <img align="center" alt="HTML" heigth="40" width="50" src="https://cdn-icons-png.flaticon.com/128/10039/10039841.png">
+#### https://lorenzobondanportfolio.vercel.app/
+#
 [![Lorenzo Bondan GitHub stats](https://github-readme-stats.vercel.app/api?username=LorenzoBondan&show_icons=true&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LorenzoBondan&layout=compact&show_icons=true&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
-## Frontend
+## Frontend <img align="center" alt="HTML" heigth="20" width="30" src="https://cdn-icons-png.flaticon.com/128/6929/6929585.png">
 <div style="display: flex" style="flex-direction: row">
 <div style="display: inline_block">
     <img align="center" alt="HTML" heigth="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
@@ -16,7 +14,7 @@ https://lorenzobondanportfolio.vercel.app/
     <img align="center" alt="React" heigth="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
 </div><br/>
 
-## Backend
+## Backend <img align="center" alt="HTML" heigth="20" width="30" src="https://cdn-icons-png.flaticon.com/128/4674/4674889.png">
 <div style="display: inline_block">
     <img align="center" alt="CSharp" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
     <img align="center" alt="Java" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
@@ -50,6 +48,7 @@ https://lorenzobondanportfolio.vercel.app/
         <tr>
             <td><a title="React Bootcamp">React Bootcamp</a></td>
             <td align="left">
+                <a href="#"><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" title="Typescript"></a>
                 <a href="#"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" title="React"></a>
             </td>
         </tr>
