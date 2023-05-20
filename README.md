@@ -1,14 +1,7 @@
 ### Lorenzo Bondan
 
-<p align="left">
-    <img 
-         src="https://komarev.com/ghpvc/?username=LorenzoBondan&label=Profile%20views&color=0e75b6&style=flat-square&color=yellow" 
-         title="Profile views" 
-         alt="Profile views"
-    >
-</p>
-
-[![linkedin](https://img.shields.io/static/v1?style=flat-square&logo=linkedin&color=blue&message=Linkedin&label=%20)](https://www.linkedin.com/in/lorenzo-bondan-108b42236/)
+# My portfolio
+https://lorenzobondanportfolio.vercel.app/
 
 [![Lorenzo Bondan GitHub stats](https://github-readme-stats.vercel.app/api?username=LorenzoBondan&show_icons=true&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
