@@ -1,11 +1,9 @@
-## My portfolio <img align="center" alt="HTML" heigth="40" width="50" src="https://cdn-icons-png.flaticon.com/128/10039/10039841.png">
-#### https://lorenzobondanportfolio.vercel.app/
-#
+
 [![Lorenzo Bondan GitHub stats](https://github-readme-stats.vercel.app/api?username=LorenzoBondan&show_icons=true&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LorenzoBondan&layout=compact&show_icons=true&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
-## Frontend <img align="center" alt="HTML" heigth="20" width="30" src="https://cdn-icons-png.flaticon.com/128/6929/6929585.png">
+## Frontend 
 <div style="display: flex" style="flex-direction: row">
 <div style="display: inline_block">
     <img align="center" alt="HTML" heigth="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
@@ -14,7 +12,7 @@
     <img align="center" alt="React" heigth="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
 </div><br/>
 
-## Backend <img align="center" alt="HTML" heigth="20" width="30" src="https://cdn-icons-png.flaticon.com/128/4674/4674889.png">
+## Backend 
 <div style="display: inline_block">
     <img align="center" alt="CSharp" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
     <img align="center" alt="Java" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
