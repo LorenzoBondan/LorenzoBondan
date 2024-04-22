@@ -18,5 +18,11 @@
     <img align="center" alt="Java" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
     <img align="center" alt="Spring" heigth="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
 </div>
+
+## Databases
+<div style="display: inline_block">
+    <img align="center" alt="Postgres" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
+    <img align="center" alt="MongoDB" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg">
+</div>
 </div>
 
